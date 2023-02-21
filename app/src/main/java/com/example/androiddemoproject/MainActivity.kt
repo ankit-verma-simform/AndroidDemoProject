@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     lateinit var txtWelcome: TextView
     lateinit var btnLetsGo: Button
-    private var cnt: Int = 2
+    private var cnt: Int = 3
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
